@@ -1,1 +1,3 @@
-# daimyos.github.io
+# daimyos
+
+> A new kind of LINUX
